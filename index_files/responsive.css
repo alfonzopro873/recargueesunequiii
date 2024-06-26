@@ -1,0 +1,95 @@
+@media only screen and (max-width: 1380px) {
+
+			
+.page-banner img {  height: auto;}
+
+}
+
+
+
+
+@media only screen and (max-width: 1050px) {
+.contact		{    padding: 0 0;}
+			
+.section2 .row2 img {  height: 307px;}
+
+}
+@media only screen and (max-width: 990px) { 
+.panel-title	a 						{font-size: 14px;}
+.panel-collapse ul li.active a ,	.panel-collapse ul li  a 				{font-size: 14px;}		
+.panel-collapse ul li						 {    margin-bottom: 10px;}	
+.section2 .row2 img						 {height:auto;}
+.section2 								{padding: 58px 10px 87px;}
+.section2 h1 							{font-size: 50px;    margin: 0 0 16px;}
+.footer-div 	 .bottom-ul li				{width: 88px;  padding: 5px 1px;}
+.extra-pad 								{  padding: 0 15px;}
+.col-sm-8.content	h2					{    font-size: 35px;}
+.col-sm-8.content	h3 					{   font-size: 19px;}
+.col-sm-8.content	h4.first				 {    margin-top: 10px;}
+.contact h2								 {   font-size: 46px;line-height: 48px;}
+.contact 								{   margin-top: 54px;   padding: 0 15px;}
+.bredcrum	a 								{font-size: 13px;}
+.bredcrum 									{    margin-top: 145px;   margin-bottom: 32px;}
+.section1	.img1	h2						{    top: 33%;   font-size: 44.1px;}
+.section1	.first-img 	h2 , .section1	.second-img 	h2			{    font-size: 32px;}
+.section2 .sec-img-1  h2, .section2 .sec-img-2 	h2, .section2 .sec-img-3  h2, .section2 .sec-img4 	h2		{    top: 34%;  font-size: 37px;}
+
+.section2 .sec-img-3  h2					{  font-size: 23px;     top: 13%; line-height: 30px;}
+
+}
+
+@media only screen and (max-width: 767px) {
+	.overflow								{overflow:hidden}
+	.top-nav ul.left {   display:none;}
+	.search	i.fa									{ margin-top: 17px;}
+	.menu1	,.menu2,	.menu3					{width: 268px;}
+	.section1	.img1	h2						{font-size: 32px;}
+	.section2 h1 								{font-size: 30px;}
+	.section1	.first-img 	h2 , 
+	.section1 .second-img 	h2					{font-size: 21px;}
+	.section2 .sec-img-3  h2						{top: 20%;   font-size: 21px;}
+	.section2 .sec-img-1 	h2 ,
+	.section2 .sec-img-2 	h2 ,
+	.section2 .sec-img-3 	h2 ,
+	.section2 .sec-img4		 h2					{top: 38%;   font-size: 30px;}
+	.section2 .sec-img-3 	h2 					{top: 20%;   font-size: 21px;}
+	.section2 .sec-img4 h2						{top: 26%;   font-size: 30px;}
+	.top-nav  .logo								{width: 108px;}
+	.top-nav ul li									{padding: 0 8px;}
+	.top-nav									{ padding: 18px 0;}
+	.top-nav ul li a 								{font-size: 12px;}
+	.page-banner img								{min-height: 181px;   object-fit: cover;}
+	.sec-img-3		, .sec-img-1				{margin-bottom:10px}
+	.footer-div .bottom-ul li 						{margin-bottom: 10px;   width: auto;    padding: 5px 10px;}
+	.footer-div 	 .brands li						{margin-bottom:20px}
+	.page-banner 								{ margin-top: 56px;}
+	.col-sm-8.content	h2							 {    font-size: 23px;}
+	.contact h2 									{font-size: 34px;}
+	.bredcrum									 {   margin-top: 87px	}
+	.sumbit-btn 									{  margin-top: 47px;  margin-bottom: 45px;}
+	.menu1 .search	.menu-inner-wrap 				{   padding: 0 15px;}
+	.menu1 .menu-ul ul li 								{   display: block;padding: 0px 20px;}
+	.wrapper.slide-right 							{ margin-left: 268px;	}
+	.menu1 .menu-ul ul li								{margin-top:0px}
+	.menu3 .menu-inner-wrap 	,.menu3 .search	.menu-inner-wrap						{  padding: 1px 25px;}
+	.menu3 .menu-ul ul li 									{ display: block;   padding: 17px 0px;}
+	.search	input											{ margin-top: 20px;}
+	.search 												{ height: 64px;}
+	.burger 												{display:inline-block}
+	.wrapper.slide-left									 {  margin-left: -268px;}
+	.mob-menu											{display:block;background-color: #dfdfdf;padding:17px 25px 17px 20px;cursor:pointer; margin-bottom:5px}
+	.mob-menu	a 										{margin-bottom:6px;font-size: 16px;line-height:23px;color:#323232;font-family:'Lato-Light';display: inline-block;vertical-align: middle; text-transform: uppercase; border-bottom: 0px; }
+	.menu-inner-wrap.mob-slide						{display:none;}
+	span.rotate 										{   -webkit-transition: all 700ms cubic-bezier(.26,1.06,.89,.9);    transition: all 500ms cubic-bezier(.26,1.06,.89,.9);  transform: rotate(45deg);}
+	.menu2.mob-slide								{position:static} 
+	.menu1 .menu2.mob-slide .menu-ul ul li				{    padding: 10px 2px;}
+	.menu2.mob-slide	.menu-ul					{    padding: 0px;} 
+	.menu2.mob-slide 								{width:100%; display:none;}
+	.menu1 .menu-ul ul li a								{    padding: 15px 0px;}
+	.menu1 .menu-ul ul li.dropdown	a	, .menu1 .menu-ul ul li.dropdown ul li a					{    padding: 15px 20px;}
+	.menu1 .menu-ul ul li.dropdown	a .fa 				{ font-size: 22px;}
+	}
+
+
+
+
